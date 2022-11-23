@@ -1,0 +1,43 @@
+
+body{
+    background-color:#B0D1F2;
+    margin: 150px;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    width: 100%;
+}
+
+.img{
+    justify-content: center;
+    border-radius: 50%;
+    margin: 0px auto;
+    border: 10px solid white;
+    height: 250px;
+    width: 250px;
+}
+
+.text{
+    font-size: 40px;
+}
+
+/* Overlaying the images */
+.img1{
+    margin: -30px;
+}
+
+.img2{
+    margin: -30px; 
+}
+
+.img3{
+    margin: -30px;
+}
+
+.img4{
+    margin:-30px;
+    margin-right: 30px;
+}
